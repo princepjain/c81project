@@ -1,0 +1,10 @@
+body {
+    background-image:url("bg1.jpg"); 
+    background-position: center;
+}
+
+#mc {
+    border: black;
+    border-width: 3px;
+    border-style: ridge;
+}
